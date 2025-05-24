@@ -95,7 +95,7 @@ var camelcaseExample;
 console.log ("5 Illegal Variable Names (These will cause errors if used)");
 
 // var 123num;   //  Cannot start with a number
-console.log("1 cannot start with a number; 123num");
+console.log("1 cannot start  with a number; 123num");
 
 // var my-variable;  //  Cannot contain hyphens
 console.log ("2 Cannot contain hyphens; -");
@@ -173,7 +173,7 @@ document.write ("<p>modolus of " + num1 + " & " + num2 + " is " + modolus);
   // h. Show the final value
   document.write("Value after addition of 7 is: " + myNumber);
 
-  // Pehlay variable define karna hai
+  // i. Pehlay variable define karna hai
   let num = 13;
 
   // Decrement karna hai
@@ -182,7 +182,7 @@ document.write ("<p>modolus of " + num1 + " & " + num2 + " is " + modolus);
   // Browser per value show karni hai
   document.write("Value after decrement is: " + num + "<br>");
 
-  // Remainder find karna hai
+  // j. Remainder find karna hai
   let remainder = num % 3;
 
   // Remainder ko display karna hai
